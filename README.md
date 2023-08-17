@@ -12,8 +12,11 @@
 
 ## ⚡ My skills
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromst2000&layout=compact&theme=dracula)
 
+<br>
 <div>
   <img align="center" alt="html-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="css-pedro" heigth="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -22,6 +25,9 @@
   <img align="center" alt="python-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="nodejs-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="git-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <br>
+    <br>
+  ⏲️ profile to be updated soon ⏲️
+
 </div>
 
-⏲️ profile to be updated soon ⏲️
