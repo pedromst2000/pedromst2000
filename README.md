@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  </div>
+
+#### You can also reach me on gmail : `pedromst2000@gmail.com`
+ 
   
   
 
