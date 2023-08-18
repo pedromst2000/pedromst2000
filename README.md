@@ -24,6 +24,7 @@
   <img align="center" alt="react-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="python-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="nodejs-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   <img align="center" alt="git-pedro" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br>
 </div>
@@ -43,3 +44,4 @@
 </a>
  </div>
  
+![Snake animation](https://github.com/pedromst2000/pedromst2000/blob/output/github-contribution-grid-snake.svg)
