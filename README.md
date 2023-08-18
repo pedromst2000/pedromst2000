@@ -39,10 +39,7 @@
    <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+    <a href="mailto:pedromst2000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
  </div>
-
-#### You can also reach me on gmail : `pedromst2000@gmail.com`
- 
-  
-  
-
