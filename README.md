@@ -14,7 +14,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromst2000&layout=compact&theme=dracula)
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedromst2000&theme=dark&hide=css"/> </a>
 
 <br>
 <div>
