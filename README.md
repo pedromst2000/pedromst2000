@@ -4,7 +4,7 @@
 ## 💫 About Me
 
 - 🔭 I’m currently studying at [ESMAD](https://www.esmad.ipp.pt/?set_language=en)
-- 🌱 I’m currently learning `React`
+- 🌱 I’m currently learning `React Native`
 - ⚡ My first programming language was `Python`
 - ⭐ My favourite programming language is `Javascript`
 - 🥇 I am looking to contribute to the [Awwwards](https://www.awwwards.com/) by sharing my web design work 
