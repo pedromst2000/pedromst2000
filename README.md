@@ -8,7 +8,7 @@
 - ⚡ My first programming language was `Python`
 - ⭐ My favourite programming language is `Javascript`
 - 🥇 I am looking to contribute to the [Awwwards](https://www.awwwards.com/) by sharing my web design work 
-- 📑 I am looking to work in the future as a `Front-End Devoloper` or as a `UI/UX Designer`
+- 📑 I am passionate about `Front-End Devolopment` and `UI/UX Design`
 
 ## ⚡ My skills
 
