@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently studying at [ESMAD](https://www.esmad.ipp.pt/?set_language=en)
+- 🔭 I’m a gratuated at [ESMAD](https://www.esmad.ipp.pt/?set_language=en) | [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663).
 - 🌱 I’m learning every day to improve my knowledge so i can show my talented and to contribute for the society.
 - ⚡ My first programming language was `Python`
 - ⭐ My favourite programming language is `Javascript`
