@@ -1,5 +1,11 @@
 
-## Hi i am Pedro 
+## ✋ Hi i am Pedro 
+
+Passionate about technology, I am motivated, persistent, and driven by challenges. 
+
+I thrive on learning by doing and continuously improving my skills. Committed to writing efficient, high-quality code, I strive to deliver impactful solutions while staying updated with emerging technologies.
+
+My main interests include Full-Stack and Front-End Development, Machine Learning, and AI. 
 
 ## 💫 About Me
 
@@ -7,7 +13,6 @@
 - 🌱 I’m learning every day to improve my knowledge so i can show my talented and to contribute for the society.
 - ⚡ My first programming language was `Python`
 - ⭐ My favourite programming language is `Javascript`
-- 📑 I am passionate about `Full-Stack Development` and `UI/UX Design`
 
 ## ⚡ My skills
 
