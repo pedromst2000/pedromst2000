@@ -38,9 +38,6 @@ My main interests include `Full-Stack` Development, `Visual Design`, `Machine Le
 
   ## 🎆 Contacts
  <div>
-<a href="https://www.instagram.com/pedromst2000" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
    <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
