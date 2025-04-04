@@ -5,7 +5,7 @@ Passionate about technology, I am motivated, persistent, and driven by challenge
 
 I thrive on learning by doing and continuously improving my skills. Committed to writing efficient, high-quality code, I strive to deliver impactful solutions with a strong focus on performance, user experience, and visual design while staying updated with emerging technologies.
 
-My main interests include `Full-Stack` Development, `Visual Design`, `Machine Learning`, and `AI`. 
+My main interests include `Full-Stack` Development, `Visual Design`, `Machine Learning`, and `GenAI`. 
 
 ## 💫 About Me
 
