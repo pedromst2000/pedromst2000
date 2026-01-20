@@ -41,7 +41,7 @@ My main interests include  `Front-End` Development, `Full-Stack` Development, `A
    <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-    <a href="mailto:pedromst2000@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=pedromst2000@gmail.com&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
  </div>
