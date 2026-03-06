@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Pedro
+<img align="right" src="https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg" width="200" alt="Snake animation"/>
 
-> Passionate technologist, creative problem solver, and lifelong learner. I thrive on building impactful solutions with a focus on performance, user experience, and modern design.
+Passionate about technology, I am motivated, persistent, and driven by challenges.
 
-![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
-
----
-
-## 👨‍💻 About Me
+I thrive on learning by doing and continuously improving my skills. I am committed to writing efficient, high-quality code and strive to deliver impactful solutions with a strong focus on performance, user experience, and visual design, while staying updated with emerging technologies.
 
 - 🎓 Graduated from [ESMAD](https://www.esmad.ipp.pt/?set_language=en) with a [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663)
 - 🌱 Always learning and growing to contribute my best
@@ -14,6 +10,32 @@
 - ⭐ Favorite programming language: **JavaScript**
 - 🎨 Interests: **Front-End**, **Full-Stack**, **App Design**, **GenAI**
 - 🏋️ Hobbies: Gym, Meditation, Listening to Music, Playing Guitar
+
+---
+
+## 💼 Portfolio & Featured Projects
+
+### 🚀 Web Apps
+
+| Project                           | Live Demo                                         | Repository                                                                                                           | Report Issue/Bug                                                                                                               | Request Feature                                                                                                                            | Status |
+| --------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| **Cash Register App**             | [Demo](https://cashregistercode.netlify.app)      | [GitHub](https://github.com/pedromst2000/Cash_Register)                                                              | [Report Issue/Bug](https://github.com/pedromst2000/Cash_Register/issues/new?labels=bug&template=bug_report.md)                 | [Request Feature](https://github.com/pedromst2000/Cash_Register/issues/new?labels=enhancement&template=feature_request.md)                 | ✅     |
+| **Palindrome Checker App**        | [Demo](https://palindromecheckercode.netlify.app) | [GitHub](https://github.com/pedromst2000/Palindrome_Checker)                                                         | [Report Issue/Bug](https://github.com/pedromst2000/Palindrome_Checker/issues/new?labels=bug&template=bug_report.md)            | [Request Feature](https://github.com/pedromst2000/Palindrome_Checker/issues/new?labels=enhancement&template=feature_request.md)            | ✅     |
+| **Pokemon Search App**            | [Demo](https://pokemonsearchcode.netlify.app)     | [GitHub](https://github.com/pedromst2000/pokemon_search)                                                             | [Report Issue/Bug](https://github.com/pedromst2000/pokemon_search/issues/new?labels=bug&template=bug_report.md)                | [Request Feature](https://github.com/pedromst2000/pokemon_search/issues/new?labels=enhancement&template=feature_request.md)                | ✅     |
+| **Convert to Roman App**          | [Demo](https://convertoromancode.netlify.app)     | [GitHub](https://github.com/pedromst2000/Convert_to_Roman)                                                           | [Report Issue/Bug](https://github.com/pedromst2000/Convert_to_Roman/issues/new?labels=bug&template=bug_report.md)              | [Request Feature](https://github.com/pedromst2000/Convert_to_Roman/issues/new?labels=enhancement&template=feature_request.md)              | ✅     |
+| **Telephone US Number Validator** | [Demo](https://usnumberphonevalid.netlify.app/)   | [GitHub](https://github.com/pedromst2000/Telephone_US_Number_Validator)                                              | [Report Issue/Bug](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues/new?labels=bug&template=bug_report.md) | [Request Feature](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues/new?labels=enhancement&template=feature_request.md) | ✅     |
+| **Survey Form**                   | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                                                                | [Report Issue/Bug](https://github.com/pedromst2000/Survey_Form/issues/new?labels=bug&template=bug_report.md)                   | [Request Feature](https://github.com/pedromst2000/Survey_Form/issues/new?labels=enhancement&template=feature_request.md)                   | ✅     |
+| **Pacman (Junk King II Scene)**   | [Demo](https://pacman-junk-king-2.netlify.app/)   | [Pacman Repo](https://github.com/pedromst2000/Pacman-) / [Game Repo](https://github.com/TiagoRibeiro25/Junk-King-II) | [Report Issue/Bug](https://github.com/pedromst2000/Pacman-/issues/new?labels=bug&template=bug_report.md)                       | [Request Feature](https://github.com/pedromst2000/Pacman-/issues/new?labels=enhancement&template=feature_request.md)                       | ✅     |
+| **Einstein Tribute Page**         | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)                                                      | [Report Issue/Bug](https://github.com/pedromst2000/Einstein-Tribute-Page/issues/new?labels=bug&template=bug_report.md)         | [Request Feature](https://github.com/pedromst2000/Einstein-Tribute-Page/issues/new?labels=enhancement&template=feature_request.md)         | 🚧     |
+
+### 🐍 Python Apps
+
+> ⚡ For desktop Python apps, see the code and a video demo (where available):
+
+- **CrossSum App (TK GUI)** — [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App) | [Video Demo](#)
+- **Tkinter Photo Manager (TK GUI)** — [GitHub](https://github.com/pedromst2000/tkinter-photo-manager) | [Video Demo](#)
+- **Tkinter Recipes Manager (TK GUI)** — [GitHub](https://github.com/pedromst2000/Tkinter-Recipes-manage-App) | [Video Demo](#)
+- **GrubSnake Game (Pygame)** — [GitHub](https://github.com/pedromst2000/GrubSnake) | [Video Demo](#)
 
 ---
 
@@ -37,34 +59,6 @@
   <img align="center" alt="nodejs-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="git-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
----
-
-## 💼 Portfolio
-
-### 🚀 Featured Projects
-
-#### Web Apps
-
-| Project                           | Live Demo                                         | Repository                                                                                                           | Report Issue/Bug                                                                                                               | Request Feature                                                                                                                            | Status |
-| --------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| **Cash Register App**             | [Demo](https://cashregistercode.netlify.app)      | [GitHub](https://github.com/pedromst2000/Cash_Register)                                                              | [Report Issue/Bug](https://github.com/pedromst2000/Cash_Register/issues/new?labels=bug&template=bug_report.md)                 | [Request Feature](https://github.com/pedromst2000/Cash_Register/issues/new?labels=enhancement&template=feature_request.md)                 | ✅     |
-| **Palindrome Checker App**        | [Demo](https://palindromecheckercode.netlify.app) | [GitHub](https://github.com/pedromst2000/Palindrome_Checker)                                                         | [Report Issue/Bug](https://github.com/pedromst2000/Palindrome_Checker/issues/new?labels=bug&template=bug_report.md)            | [Request Feature](https://github.com/pedromst2000/Palindrome_Checker/issues/new?labels=enhancement&template=feature_request.md)            | ✅     |
-| **Pokemon Search App**            | [Demo](https://pokemonsearchcode.netlify.app)     | [GitHub](https://github.com/pedromst2000/pokemon_search)                                                             | [Report Issue/Bug](https://github.com/pedromst2000/pokemon_search/issues/new?labels=bug&template=bug_report.md)                | [Request Feature](https://github.com/pedromst2000/pokemon_search/issues/new?labels=enhancement&template=feature_request.md)                | ✅     |
-| **Convert to Roman App**          | [Demo](https://converttoromancode.netlify.app)     | [GitHub](https://github.com/pedromst2000/Convert_to_Roman)                                                           | [Report Issue/Bug](https://github.com/pedromst2000/Convert_to_Roman/issues/new?labels=bug&template=bug_report.md)              | [Request Feature](https://github.com/pedromst2000/Convert_to_Roman/issues/new?labels=enhancement&template=feature_request.md)              | ✅     |
-| **Telephone US Number Validator** | [Demo](https://usnumberphonevalid.netlify.app/)   | [GitHub](https://github.com/pedromst2000/Telephone_US_Number_Validator)                                              | [Report Issue/Bug](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues/new?labels=bug&template=bug_report.md) | [Request Feature](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues/new?labels=enhancement&template=feature_request.md) | ✅     |
-| **Survey Form**                   | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                                                                | [Report Issue/Bug](https://github.com/pedromst2000/Survey_Form/issues/new?labels=bug&template=bug_report.md)                   | [Request Feature](https://github.com/pedromst2000/Survey_Form/issues/new?labels=enhancement&template=feature_request.md)                   | ✅     |
-| **Pacman (Junk King II Scene)**   | [Demo](https://pacman-junk-king-2.netlify.app/)   | [Pacman Repo](https://github.com/pedromst2000/Pacman-) / [Game Repo](https://github.com/TiagoRibeiro25/Junk-King-II) | [Report Issue/Bug](https://github.com/pedromst2000/Pacman-/issues/new?labels=bug&template=bug_report.md)                       | [Request Feature](https://github.com/pedromst2000/Pacman-/issues/new?labels=enhancement&template=feature_request.md)                       | ✅     |
-| **Einstein Tribute Page**         | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)                                                      | [Report Issue/Bug](https://github.com/pedromst2000/Einstein-Tribute-Page/issues/new?labels=bug&template=bug_report.md)         | [Request Feature](https://github.com/pedromst2000/Einstein-Tribute-Page/issues/new?labels=enhancement&template=feature_request.md)         | 🚧     |
-
-#### Python Apps
-
-> ⚡ For desktop Python apps, see the code and a video demo (where available):
-
-- **CrossSum App (TK GUI)** — [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App) | [Video Demo](#)
-- **Tkinter Photo Manager (TK GUI)** — [GitHub](https://github.com/pedromst2000/tkinter-photo-manager) | [Video Demo](#)
-- **Tkinter Recipes Manager (TK GUI)** — [GitHub](https://github.com/pedromst2000/Tkinter-Recipes-manage-App) | [Video Demo](#)
-- **GrubSnake Game (Pygame)** — [GitHub](https://github.com/pedromst2000/GrubSnake) | [Video Demo](#)
 
 ---
 
