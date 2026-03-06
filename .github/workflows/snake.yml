@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - master  # or 'main' if your default branch is 'main'
+      - master # or 'main' if your default branch is 'main'
   schedule:
     - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
