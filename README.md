@@ -30,7 +30,7 @@ My main interests include **Front-End Development**, **Full-Stack Development**,
   <img align="center" alt="git-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-![snake gif](dist/github-contribution-grid-snake.svg)
+![snake gif](dist/ocean.gif)
 
 ## 🚧 Current Project
 
