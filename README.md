@@ -23,6 +23,8 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedromst2000&theme=dark&hide=css"/>
 </a>
 
+<br />
+
 <div>
   <img align="center" alt="html-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="css-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
