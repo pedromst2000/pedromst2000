@@ -30,7 +30,7 @@ My main interests include **Front-End Development**, **Full-Stack Development**,
   <img align="center" alt="git-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-![snake gif](dist/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/ocean.gif)
 
 ## 🚧 Current Project
 
