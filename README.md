@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg" width="200" alt="Snake animation"/>
+![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
 Passionate about technology, I am motivated, persistent, and driven by challenges.
 
