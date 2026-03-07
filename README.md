@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
++1 (AAA) XXX-XXXX![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
 Passionate about technology, I am motivated, persistent, and driven by challenges.
 
@@ -19,10 +19,9 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 
 | Project                | Tech Stack                            | Live Demo                                         | Repository                                                              | Issues/Feature Requests                                                        |
 | ---------------------- | ------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Cash Register App      | HTML, CSS, JS                         | [Demo](https://cashregistercode.netlify.app)      | [GitHub](https://github.com/pedromst2000/Cash_Register)                 | [Issues](https://github.com/pedromst2000/Cash_Register/issues)                 |
 | Palindrome Checker App | HTML, CSS, JS                         | [Demo](https://palindromecheckercode.netlify.app) | [GitHub](https://github.com/pedromst2000/Palindrome_Checker)            | [Issues](https://github.com/pedromst2000/Palindrome_Checker/issues)            |
 | Pokemon Search App     | HTML, CSS, JS, Fetch API              | [Demo](https://pokemonsearchcode.netlify.app)     | [GitHub](https://github.com/pedromst2000/pokemon_search)                | [Issues](https://github.com/pedromst2000/pokemon_search/issues)                |
-| Convert to Roman App   | HTML, CSS, JS                         | [Demo](https://converttoromancode.netlify.app)     | [GitHub](https://github.com/pedromst2000/Convert_to_Roman)              | [Issues](https://github.com/pedromst2000/Convert_to_Roman/issues)              |
+| Convert to Roman App   | HTML, CSS, JS                         | [Demo](https://converttoromancode.netlify.app)    | [GitHub](https://github.com/pedromst2000/Convert_to_Roman)              | [Issues](https://github.com/pedromst2000/Convert_to_Roman/issues)              |
 | Telephone US Validator | HTML, CSS, JS                         | [Demo](https://usnumberphonevalid.netlify.app/)   | [GitHub](https://github.com/pedromst2000/Telephone_US_Number_Validator) | [Issues](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues) |
 | Survey Form            | HTML, CSS                             | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                   | [Issues](https://github.com/pedromst2000/Survey_Form/issues)                   |
 | Einstein Tribute Page  | React, TypeScript, Vite, Tailwind CSS | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)         | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues)         |
