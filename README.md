@@ -56,9 +56,8 @@ I thrive on learning by doing and continuously improving my skills. I am committ
   <img align="center" alt="python-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="nodejs-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="git-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="sql-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
----
 
 ## 🚧 Current Project
 
