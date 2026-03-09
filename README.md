@@ -29,7 +29,7 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 
 ### 🖥️ Desktop Python Apps
 
-<sub><b>Note:</b> Video demos are shared via Google Drive.</sub>
+> **Note:** Video demos are shared via Google Drive.
 
 | Project                 | Tech Stack              | Video Demo | Repository                                                           | Issues/Feature Requests                                                     |
 | ----------------------- | ----------------------- | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
