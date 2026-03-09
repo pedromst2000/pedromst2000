@@ -26,7 +26,10 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 | Survey Form            | HTML, CSS                             | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                   | [Issues](https://github.com/pedromst2000/Survey_Form/issues)                   |
 | Einstein Tribute Page  | React, TypeScript, Vite, Tailwind CSS | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)         | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues)         |
 
+
 ### 🖥️ Desktop Python Apps
+
+<sub><b>Note:</b> Video demos are shared via Google Drive.</sub>
 
 | Project                 | Tech Stack              | Video Demo | Repository                                                           | Issues/Feature Requests                                                     |
 | ----------------------- | ----------------------- | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
