@@ -15,6 +15,8 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 
 ## 💼 Portfolio & Featured Projects
 
+> **Note:** Mobile apps and Backend/API services will be added soon—currently fixing issues and preparing new showcases!
+
 ### 🚀 Web Projects
 
 | Project                | Tech Stack                            | Live Demo                                         | Repository                                                              | Issues/Feature Requests                                                        |
@@ -26,18 +28,16 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 | Survey Form            | HTML, CSS                             | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                   | [Issues](https://github.com/pedromst2000/Survey_Form/issues)                   |
 | Einstein Tribute Page  | React, TypeScript, Vite, Tailwind CSS | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)         | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues)         |
 
-> **Note:** Mobile apps and Backend/API services will be added soon—currently fixing issues and preparing new showcases!
-
 ### 🖥️ Desktop Python Apps
 
 > **Note:** Video demos are shared via Google Drive.
 
-| Project                 | Tech Stack              | Video Demo | Repository                                                           | Issues/Feature Requests                                                     |
-| ----------------------- | ----------------------- | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| CrossSum App            | Python, Tkinter, pytest, pytest-mock, [unittest](https://docs.python.org/3/library/unittest.html), [flake8](https://flake8.pycqa.org/en/latest/), [yamllint](https://yamllint.readthedocs.io/en/stable/), [Black](https://black.readthedocs.io/en/stable/), GitHub Actions (CI), YAML, PIP | [Demo](https://drive.google.com/file/d/1YGVGdn4lnj9XfKiJbIkSQGk9UI1Xbvsk/view?usp=sharing)  | [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App)       | [Issues](https://github.com/pedromst2000/Cross_Sum_Number_App/issues)       |
-| Tkinter Photo Manager   | Python, Tkinter, Pillow | [Demo](#)  | [GitHub](https://github.com/pedromst2000/tkinter-photo-manager)      | [Issues](https://github.com/pedromst2000/tkinter-photo-manager/issues)      |
-| Tkinter Recipes Manager | Python, Tkinter         | [Demo](#)  | [GitHub](https://github.com/pedromst2000/Tkinter-Recipes-manage-App) | [Issues](https://github.com/pedromst2000/Tkinter-Recipes-manage-App/issues) |
-| GrubSnake Game          | Python, Pygame          | [Demo](#)  | [GitHub](https://github.com/pedromst2000/GrubSnake)                  | [Issues](https://github.com/pedromst2000/GrubSnake/issues)                  |
+| Project                 | Tech Stack                                                                                                                                                                                                                                                                                 | Video Demo                                                                                 | Repository                                                           | Issues/Feature Requests                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| CrossSum App            | Python, Tkinter, pytest, pytest-mock, [unittest](https://docs.python.org/3/library/unittest.html), [flake8](https://flake8.pycqa.org/en/latest/), [yamllint](https://yamllint.readthedocs.io/en/stable/), [Black](https://black.readthedocs.io/en/stable/), GitHub Actions (CI), YAML, PIP | [Demo](https://drive.google.com/file/d/1YGVGdn4lnj9XfKiJbIkSQGk9UI1Xbvsk/view?usp=sharing) | [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App)       | [Issues](https://github.com/pedromst2000/Cross_Sum_Number_App/issues)       |
+| Tkinter Photo Manager   | Python, Tkinter, Pillow                                                                                                                                                                                                                                                                    | [Demo](#)                                                                                  | [GitHub](https://github.com/pedromst2000/tkinter-photo-manager)      | [Issues](https://github.com/pedromst2000/tkinter-photo-manager/issues)      |
+| Tkinter Recipes Manager | Python, Tkinter                                                                                                                                                                                                                                                                            | [Demo](#)                                                                                  | [GitHub](https://github.com/pedromst2000/Tkinter-Recipes-manage-App) | [Issues](https://github.com/pedromst2000/Tkinter-Recipes-manage-App/issues) |
+| GrubSnake Game          | Python, Pygame                                                                                                                                                                                                                                                                             | [Demo](#)                                                                                  | [GitHub](https://github.com/pedromst2000/GrubSnake)                  | [Issues](https://github.com/pedromst2000/GrubSnake/issues)                  |
 
 ---
 
