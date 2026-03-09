@@ -15,7 +15,7 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 
 ## 💼 Portfolio & Featured Projects
 
-### 🚀 Web Apps
+### 🚀 Web Projects
 
 | Project                | Tech Stack                            | Live Demo                                         | Repository                                                              | Issues/Feature Requests                                                        |
 | ---------------------- | ------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -26,6 +26,7 @@ I thrive on learning by doing and continuously improving my skills. I am committ
 | Survey Form            | HTML, CSS                             | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                   | [Issues](https://github.com/pedromst2000/Survey_Form/issues)                   |
 | Einstein Tribute Page  | React, TypeScript, Vite, Tailwind CSS | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)         | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues)         |
 
+> **Note:** Mobile apps and Backend/API services will be added soon—currently fixing issues and preparing new showcases!
 
 ### 🖥️ Desktop Python Apps
 
