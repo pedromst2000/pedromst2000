@@ -1,42 +1,38 @@
 ![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
-Passionate about technology, I am motivated, persistent, and driven by challenges.
+Full-Stack Developer focused on building scalable and efficient applications, mainly using React, TypeScript, Node.js, and SQL, while staying adaptable to new technologies and frameworks.
 
-I thrive on learning by doing and continuously improving my skills. I am committed to writing efficient, high-quality code and strive to deliver impactful solutions with a strong focus on performance, user experience, and visual design, while staying updated with emerging technologies.
+I develop end-to-end solutions — from responsive front-end interfaces to robust backend APIs — with a strong focus on performance, clean architecture, code quality, and maintainability. I follow best practices such as testing and CI/CD to ensure reliable and scalable software.
 
 - 🎓 Graduated from [ESMAD](https://www.esmad.ipp.pt/?set_language=en) with a [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663)
-- 🌱 Always learning and growing to contribute my best
-- ⚡ First programming language: **Python**
-- ⭐ Favorite programming language: **JavaScript**
-- 🎨 Interests: **Front-End**, **Full-Stack**, **App Design**, **GenAI**
-- 🏋️ Hobbies: Gym, Meditation, Listening to Music, Playing Guitar
+- ⚡ Started with **Python**, currently focused on **JavaScript** ecosystem
+- 🎨 **Interests**: Front-End, Full-Stack, App Design, GenAI
+- 🏋️ **Hobbies**: Gym, Meditation, Music, Guitar
 
 ---
 
 ## 💼 Portfolio & Featured Projects
 
-> **Note:** More projects will be added soon (mobile app(s), API services, etc.). Currently fixing issues and working on refactoring and improvements while preparing new showcases!
+> **Note:** Currently improving and refactoring existing projects while preparing new full-stack, mobile, and API-based applications.
+
+A curated selection of my main projects, showcasing full-stack, mobile, backend, and desktop development.
 
 ### 🚀 Web Projects
 
-| Project                | Tech Stack                            | Live Demo                                         | Repository                                                              | Issues/Feature Requests                                                        |
-| ---------------------- | ------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Palindrome Checker App | HTML, CSS, JS                         | [Demo](https://palindromecheckercode.netlify.app) | [GitHub](https://github.com/pedromst2000/Palindrome_Checker)            | [Issues](https://github.com/pedromst2000/Palindrome_Checker/issues)            |
-| Pokemon Search App     | HTML, CSS, JS, Fetch API              | [Demo](https://pokemonsearchcode.netlify.app)     | [GitHub](https://github.com/pedromst2000/pokemon_search)                | [Issues](https://github.com/pedromst2000/pokemon_search/issues)                |
-| Convert to Roman App   | HTML, CSS, JS                         | [Demo](https://converttoromancode.netlify.app)    | [GitHub](https://github.com/pedromst2000/Convert_to_Roman)              | [Issues](https://github.com/pedromst2000/Convert_to_Roman/issues)              |
-| Telephone US Validator | HTML, CSS, JS                         | [Demo](https://usnumberphonevalid.netlify.app/)   | [GitHub](https://github.com/pedromst2000/Telephone_US_Number_Validator) | [Issues](https://github.com/pedromst2000/Telephone_US_Number_Validator/issues) |
-| Survey Form            | HTML, CSS                             | [Demo](https://surveyformaltesc.netlify.app/)     | [GitHub](https://github.com/pedromst2000/Survey_Form)                   | [Issues](https://github.com/pedromst2000/Survey_Form/issues)                   |
-| Einstein Tribute Page  | React, TypeScript, Vite, Tailwind CSS | _(Coming soon)_                                   | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page)         | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues)         |
+| Project               | Description                                                                                                                                                          | Tech Stack                                                                                                                                                                                | Live Demo                                     | Repository                                                      | Issues/Feature Requests                                                |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Pokemon Search App    | Client-side application that fetches and displays Pokémon data from a public API, focused on dynamic data handling and interactive UI rendering.                     | HTML, CSS, JS, [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)                                                                                                    | [Demo](https://pokemonsearchcode.netlify.app) | [GitHub](https://github.com/pedromst2000/pokemon_search)        | [Issues](https://github.com/pedromst2000/pokemon_search/issues)        |
+| Einstein Tribute Page | Modern and responsive landing page dedicated to Albert Einstein, showcasing UI/UX design, accessibility, front-end architecture, and smooth scroll-based animations. | **Node.js, React, TypeScript, Tailwind CSS**<br/><br/>_Auxiliary: Vite, [React Router](https://reactrouter.com/start/framework/routing), [Framer Motion](https://www.framer.com/motion/)_ | :rocket: Coming Soon                          | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page) | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues) |
 
 ### 🖥️ Desktop Python Apps
 
 > **Note:** Video demos are hosted on Youtube!
 
-| Project        | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Video Demo                           | Repository                                                           | Issues/Feature Requests                                                     |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| CrossSum App   | Python, Tkinter, pytest, [pytest-mock](https://pytest-mock.readthedocs.io/en/latest/), [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/), [Hypothesis](https://hypothesis.readthedocs.io/en/latest/), [flake8](https://flake8.pycqa.org/en/latest/), [yamllint](https://yamllint.readthedocs.io/en/stable/), [Black](https://black.readthedocs.io/en/stable/), [mypy](https://mypy.readthedocs.io/en/stable/), GitHub Actions(CI), pyinstaller, [codecov](https://codecov.io/) | [Demo](https://youtu.be/I1cHkolX1NI) | [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App)       | [Issues](https://github.com/pedromst2000/Cross_Sum_Number_App/issues)       |
-| PhotoShow      | Python, Tkinter, pytest, pytest-mock, pytest-cov, flake8, yamllint, Black, GitHub Actions (CI), pip, pyinstaller, [Pillow](https://pillow.readthedocs.io/en/stable/), [SQLite](https://www.sqlite.org/docs.html), [SQLAlchemy](https://www.sqlalchemy.org/), [bcrypt](https://pypi.org/project/bcrypt/)                                                                                                                                                                                 | _(Coming soon)_                      | [GitHub](https://github.com/pedromst2000/PhotoShow) | [Issues](https://github.com/pedromst2000/PhotoShow/issues) |
-| GrubSnake Game | Python, Pygame                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | _(Coming soon)_                      | [GitHub](https://github.com/pedromst2000/GrubSnake)                  | [Issues](https://github.com/pedromst2000/GrubSnake/issues)                  |
+| Project        | Description                                                                                                                                                                                    | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Video Demo                           | Repository                                                     | Issues/Feature Requests                                               |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| CrossSum App   | Desktop application for calculating digit sums, with a user-friendly Tkinter GUI, built with strong focus on testing strategies, Continuous Integration workflows, and code quality practices. | **Python, Tkinter**<br/><br/>_Auxiliary: pytest, [pytest-mock](https://pytest-mock.readthedocs.io/en/latest/), [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/), [Hypothesis](https://hypothesis.readthedocs.io/en/latest/), [flake8](https://flake8.pycqa.org/en/latest/), [yamllint](https://yamllint.readthedocs.io/en/stable/), [Black](https://black.readthedocs.io/en/stable/), [mypy](https://mypy.readthedocs.io/en/stable/), pyinstaller_ | [Demo](https://youtu.be/I1cHkolX1NI) | [GitHub](https://github.com/pedromst2000/Cross_Sum_Number_App) | [Issues](https://github.com/pedromst2000/Cross_Sum_Number_App/issues) |
+| PhotoShow      | Tkinter-based desktop app with MVC architecture for photo management, including authentication, database integration, and layered system design.                                               | **Python, Tkinter, SQLite, SQLAlchemy, pyinstaller**<br/><br/>_Auxiliary: pytest, pytest-mock, pytest-cov, flake8, yamllint, Black, [Pillow](https://pillow.readthedocs.io/en/stable/), [bcrypt](https://pypi.org/project/bcrypt/)_                                                                                                                                                                                                                          | :clapper: Coming Soon                | [GitHub](https://github.com/pedromst2000/PhotoShow)            | [Issues](https://github.com/pedromst2000/PhotoShow/issues)            |
+| GrubSnake Game | Snake inspired game with colorful visuals, fast-paced gameplay, and logic-driven mechanics, reimagining the classic Snake experience using Pygame.                                             | **Python, Pygame**                                                                                                                                                                                                                                                                                                                                                                                                                                           | :clapper: Coming Soon                | [GitHub](https://github.com/pedromst2000/GrubSnake)            | [Issues](https://github.com/pedromst2000/GrubSnake/issues)            |
 
 <br/>
 
@@ -61,19 +57,6 @@ I thrive on learning by doing and continuously improving my skills. I am committ
   <img align="center" alt="git-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="sql-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-## 🚧 Current Project
-
-**Einstein Tribute Page**  
-Status: In Progress 🚧
-
-<a href="https://github.com/pedromst2000/Einstein-Tribute-Page" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-Einstein%20Tribute%20Page-blue?style=for-the-badge&logo=github" alt="Einstein Tribute Page on GitHub"/>
-</a>
-
-A tribute page dedicated to Albert Einstein, showcasing web design and front-end skills. This is my current active project—check it out for my latest work!
-
----
 
 ## 📫 Contact
 
