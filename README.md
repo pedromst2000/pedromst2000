@@ -23,11 +23,14 @@ During my graduation project, I developed **Activulse**, a cross-platform **Reac
   </a>
 </p>
 
+<br/>
+
 ## :briefcase: Portfolio & Featured Projects
 
 > **Note:** Currently improving and refactoring existing projects while preparing new full-stack, mobile, and API-based applications.
 
 A curated selection of my main projects, showcasing full-stack, mobile, backend, and desktop development.
+
 
 ### :rocket: Web Projects
 
@@ -35,6 +38,8 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | Pokemon Search App    | Client-side application that fetches and displays Pokémon data from a public API, focused on dynamic data handling and interactive UI rendering.              | HTML, CSS, JS, [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)                                                                                                    | [Demo](https://pokemonsearchcode.netlify.app) | [GitHub](https://github.com/pedromst2000/pokemon_search)        | [Issues](https://github.com/pedromst2000/pokemon_search/issues)        |
 | Einstein Tribute Page | Modern and responsive landing page dedicated to Albert Einstein, focused on UI/UX, accessibility, front-end architecture, and smooth scroll-based animations. | **Node.js, React, TypeScript, Tailwind CSS**<br/><br/>_Auxiliary: Vite, [React Router](https://reactrouter.com/start/framework/routing), [Framer Motion](https://www.framer.com/motion/)_ | :rocket: Coming Soon                          | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page) | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues) |
+
+<br/>
 
 ### :desktop_computer: Desktop Python Apps
 
