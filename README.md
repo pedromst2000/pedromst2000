@@ -8,7 +8,7 @@ I build end-to-end solutions from responsive front-end interfaces to robust back
 - :mortar_board: Graduated from [ESMAD](https://www.esmad.ipp.pt/?set_language=en) with a [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663)
 - :zap: Started with **Python**, currently focused on **JavaScript** ecosystem
 - :art: **Interests**: Front-End, Full-Stack, App Design, GenAI
-- :weigh_lifting: **Hobbies**: Gym, Meditation, Music, Guitar
+- :guitar: **Hobbies**: Gym, Meditation, Music, Guitar
 
 ---
 
