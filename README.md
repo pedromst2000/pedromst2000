@@ -89,8 +89,6 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 
 <br/>
 
-<br/>
-
 ## :mailbox: Contact
 
 <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
