@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 ![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
 Full-Stack Developer focused on building scalable and maintainable applications, with strong emphasis on clean architecture, code quality, and modern development practices.
@@ -23,14 +25,11 @@ During my graduation project, I developed **Activulse**, a cross-platform **Reac
   </a>
 </p>
 
-<br/>
-
 ## :briefcase: Portfolio & Featured Projects
 
 > **Note:** Currently improving and refactoring existing projects while preparing new full-stack, mobile, and API-based applications.
 
 A curated selection of my main projects, showcasing full-stack, mobile, backend, and desktop development.
-
 
 ### :rocket: Web Projects
 
@@ -61,6 +60,8 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------ | --------------------------------------------------- | -------------------------------------------------------------- |
 | Activulse (iOS/Android) | Mobile application for heart health and wellness, enabling users to track steps, distance, and daily activity goals aligned with WHO guidelines. Includes personalized exercise routines, nutrition guidance, challenges, rewards, and cardiovascular health resources. Designed with a layered architecture, combining a cross-platform mobile client with a RESTful backend and database integration. | **React Native, React, Expo, TypeScript, JavaScript, Node.js** <br/><br/>_Auxiliary: Vite, NativeWind, Express, Sequelize, MySQL, Cloudinary, bcrypt, eslint, [swagger](https://swagger.io/), [JWT](https://jwt.io/)_ | [Demo](https://youtu.be/8yQINRjBj68) | :arrow_down: Coming Soon | [GitHub](https://github.com/pedromst2000/Activulse) | [Issues](https://github.com/pedromst2000/Activulse/issues/new) |
 
+<br/>
+
 ## 🛠️ Skills & Tools
 
 <div align="center">
@@ -83,6 +84,8 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
   <img align="center" alt="sql-pedro" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+<br/>
+
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
@@ -91,3 +94,9 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=pedromst2000@gmail.com&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br/>
+
+<p align="center">
+  <a href="#top">Back to top</a>
+</p>
