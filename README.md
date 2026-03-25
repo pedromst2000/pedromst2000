@@ -61,7 +61,7 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 
 <br/>
 
-## 🛠️ Skills & Tools
+## :hammer_and_wrench: Skills & Tools
 
 <div align="center">
   <a href="">
@@ -85,7 +85,7 @@ A curated selection of my main projects, showcasing full-stack, mobile, backend,
 
 <br/>
 
-## 📫 Contact
+## :mailbox: Contact
 
 <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
