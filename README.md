@@ -1,5 +1,4 @@
 <a id="top"></a>
-
 ![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
 Full-Stack Developer focused on building scalable and maintainable applications, with strong emphasis on clean architecture, code quality, and modern development practices.
