@@ -14,13 +14,27 @@ I build end-to-end solutions from responsive front-end interfaces to robust back
 
 ## :mortar_board: Academic Background
 
-> **Bachelor's Degree Final Project:** [Activulse](#iphone-mobile-applications-react-native--ios--android)
+### Bachelor's Degree Final Project
 
-During my graduation project, I developed **Activulse**, a cross-platform **React Native** mobile **app** focused on heart health and wellness, supported by a RESTful backend and database integration. For the **thesis/report** and scientific state-of-the-art research, I worked with a professor from [ESS](https://www.ess.ipp.pt) to better **define the problem**, **validate** the app goals, and align the **implementation** with the academic **requirements**.
+<p align="center">
+  <a href="#iphone-mobile-applications-react-native--ios--android">
+    <img src="https://img.shields.io/badge/Final_Project-Activulse-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Final project Activulse" />
+  </a>
+</p>
 
-<p>
+**Activulse** was my **bachelor's degree final project** at [ESMAD](https://www.esmad.ipp.pt/?set_language=en) for the **TSIW** program. It is a cross-platform **React Native** app focused on **heart health** and **daily activity tracking**, supported by a **RESTful backend**, **database integration**, and a **layered architecture**.
+
+The project also included a **thesis/report** and academic research work with a professor from [ESS](https://www.ess.ipp.pt) to **define the problem**, **validate the goals**, and align the **implementation** with the academic **requirements**.
+
+<p align="center">
   <a href="https://app.luminpdf.com/viewer/69c331e265663ae8f32d2968" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_Full_Thesis-LuminPDF-2C9EF8?style=for-the-badge" alt="View Full Thesis on LuminPDF" />
+    <img src="https://img.shields.io/badge/View_Full_Thesis-LuminPDF-2C9EF8?style=for-the-badge&logo=luminpdf&logoColor=white" alt="View Full Thesis on LuminPDF" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=8yQINRjBj68" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Watch_App_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch App Demo on YouTube" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/pedromst2000/Activulse" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Activulse repository on GitHub" />
   </a>
 </p>
 
