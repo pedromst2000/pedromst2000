@@ -1,7 +1,7 @@
 <a id="top"></a>
 ![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
-Full-Stack Developer focused on building scalable and maintainable applications, with strong emphasis on clean architecture, code quality, and modern development workflows.
+Software Developer (Full-Stack) focused on building scalable and maintainable applications, with a strong emphasis on clean architecture, code quality, and modern development workflows.
 
 I build end-to-end solutions from responsive front-end interfaces to robust backend APIs — applying best practices in performance, testing, and CI/CD to deliver reliable software.
 
