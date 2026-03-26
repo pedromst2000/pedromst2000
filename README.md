@@ -40,7 +40,7 @@ The project also involved research and collaboration with a professor from [ESS]
 
 ## :hammer_and_wrench: Skills & Tools
 
-> 💡 > 💡 Core stack focused on JavaScript/TypeScript and modern web development, with additional experience across Python and backend systems.
+> 💡 Core stack focused on JavaScript/TypeScript and modern web development, with additional experience across Python and backend systems.
 
 _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongoose](https://mongoosejs.com/), and [SQLAlchemy](https://www.sqlalchemy.org/)**._
 
