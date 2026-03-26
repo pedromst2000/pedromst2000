@@ -47,23 +47,24 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
 ### 🚀 Core Technologies
 
 <div align="center">
-  <img alt="javascript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="typescript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="react" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="nodejs" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="tailwindcss" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="javascript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="typescript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img alt="react" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="nodejs" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="tailwindcss" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
 </div>
 
 <br/>
 
+
 ### 🧩 Additional Experience
 
 <div align="center">
-  <img alt="python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="expo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
-  <img alt="mongodb" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="mysql" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="sqlite" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <a href="https://www.python.org/doc/" target="_blank" rel="noopener noreferrer"><img alt="python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://docs.expo.dev/" target="_blank" rel="noopener noreferrer"><img alt="expo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"><img alt="mongodb" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="mysql" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noopener noreferrer"><img alt="sqlite" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
 </div>
 
 <br/>
@@ -71,11 +72,11 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
 ### ⚙️ Tools & Workflow
 
 <div align="center">
-  <img alt="git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="github" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="jest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img alt="pytest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-  <img alt="selenium" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer"><img alt="git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img alt="github" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noopener noreferrer"><img alt="jest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+  <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noopener noreferrer"><img alt="pytest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></a>
+  <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noopener noreferrer"><img alt="selenium" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
 </div>
 
 ## :briefcase: Portfolio & Featured Projects
