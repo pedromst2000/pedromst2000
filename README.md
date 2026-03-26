@@ -50,7 +50,7 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="javascript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="typescript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img alt="react" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="nodejs" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="nodejs" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="tailwindcss" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
 </div>
 
@@ -62,8 +62,8 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
 <div align="center">
   <a href="https://www.python.org/doc/" target="_blank" rel="noopener noreferrer"><img alt="python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://docs.expo.dev/" target="_blank" rel="noopener noreferrer"><img alt="expo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"><img alt="mongodb" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="mysql" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"><img alt="mongodb" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="mysql" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noopener noreferrer"><img alt="sqlite" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
 </div>
 
@@ -71,10 +71,22 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
 
 ### ⚙️ Tools & Workflow
 
+**Version Control & Design**
+
 <div align="center">
-  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer"><img alt="git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer"><img alt="git" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img alt="github" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noopener noreferrer"><img alt="jest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img alt="figma" height="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
+</div>
+
+<br/>
+
+**API & Testing**
+
+<div align="center">
+  <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer"><img alt="swagger" height="60" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img alt="postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noopener noreferrer"><img alt="jest" height="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
   <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noopener noreferrer"><img alt="pytest" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></a>
   <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noopener noreferrer"><img alt="selenium" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
 </div>
