@@ -40,28 +40,29 @@ The project also involved research and collaboration with a professor from [ESS]
 
 ## :hammer_and_wrench: Skills & Tools
 
-> 💡 Core stack focused on JavaScript/TypeScript and modern web development, with additional experience across Python and backend systems.
+> 💡 Core stack centered on JavaScript/TypeScript and modern web development, with additional experience in Python and backend systems. Adaptable to new technologies and evolving project requirements.
 
 _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongoose](https://mongoosejs.com/), and [SQLAlchemy](https://www.sqlalchemy.org/)**._
 
 ### 🚀 Core Technologies
 
 <div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img alt="html5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img alt="css3" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="javascript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="typescript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img alt="react" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="nodejs" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img alt="expressjs" height="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="tailwindcss" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
 </div>
 
 <br/>
 
-
 ### 🧩 Additional Experience
 
 <div align="center">
   <a href="https://www.python.org/doc/" target="_blank" rel="noopener noreferrer"><img alt="python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://docs.expo.dev/" target="_blank" rel="noopener noreferrer"><img alt="expo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /></a>
   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"><img alt="mongodb" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="mysql" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noopener noreferrer"><img alt="sqlite" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
