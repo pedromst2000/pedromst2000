@@ -139,5 +139,5 @@ A curated selection of projects highlighting product thinking, full-stack develo
 <br/>
 
 <p align="center">
-  <a href="#top">Back to top</a>
+  <a href="#top">⬆️ Back to top</a>
 </p>
