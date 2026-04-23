@@ -49,7 +49,8 @@ The project also involved research and collaboration with a professor from [ESS]
 
 ## :hammer_and_wrench: Skills & Tools
 
-_Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongoose](https://mongoosejs.com/), and [SQLAlchemy](https://www.sqlalchemy.org/)**._
+_Also worked with **ORMs** and **ODM** such as **[Sequelize](https://sequelize.org/), [SQLAlchemy](https://www.sqlalchemy.org/) and [Mongoose](https://mongoosejs.com/)**._
+
 
 #### 🚀 Core Technologies
 
