@@ -158,7 +158,8 @@ _Also worked with **ORMs** such as **[Sequelize](https://sequelize.org/), [Mongo
 - 🤖 **Machine learning** - scikit-learn for regression modeling, classification models, and feature preprocessing
 
 <div align="right">
-  <a href="https://github.com/pedromst2000/Data-Analysis">📁 GitHub Repository</a>
+  <a href="https://github.com/pedromst2000/Data-Analysis">📁 GitHub Repository</a>&nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/certification/pedromst2000/data-analysis-with-python-v7">🏆 FreeCodeCamp Certification</a>
 </div>
 
 <br/>
