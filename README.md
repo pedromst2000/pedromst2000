@@ -14,7 +14,7 @@ Software Developer focused on building scalable and maintainable applications, w
 I build end-to-end solutions, from responsive front-end interfaces to robust backend APIs, applying best practices in performance, testing, and CI/CD. I’m particularly interested in DevOps and the full software delivery lifecycle, from development to deployment.
 
 - :mortar_board: Graduated from [ESMAD](https://www.esmad.ipp.pt/?set_language=en) with a [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663)
-- :zap: Experience across Python and JavaScript ecosystems, with a focus on full-stack development
+- :zap: Experience across JavaScript ecosystems, with a focus on full-stack development
 - :art: **Interests**: Software Development, DevOps, Full-Stack
 - :guitar: **Hobbies**: Gym, Meditation, Music, Guitar
 
