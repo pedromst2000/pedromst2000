@@ -1,29 +1,16 @@
-<!--
-  Improve READ ME intro with quote, stats and profile views!
-
-  References:
-  https://github.com/edualves12
-
--->
-
 <a id="top"></a>
 ![Snake animation](https://raw.githubusercontent.com/pedromst2000/pedromst2000/master/dist/github-snake-dark.svg)
 
-Software Developer focused on building scalable and maintainable applications, with a strong emphasis on clean architecture, code quality, and reliable software delivery.
+## 👋 About Me
 
-I build end-to-end solutions, from responsive front-end interfaces to robust backend APIs, applying best practices in performance, testing, and CI/CD. I’m particularly interested in DevOps and the full software delivery lifecycle, from development to deployment.
-
-- :mortar_board: Graduated from [ESMAD](https://www.esmad.ipp.pt/?set_language=en) with a [TSIW Degree](https://www.esmad.ipp.pt/courses/degree/663)
-- :zap: Experience across JavaScript ecosystems, with a focus on full-stack development
-- :art: **Interests**: Software Development, DevOps, Full-Stack
-- :guitar: **Hobbies**: Gym, Meditation, Music, Guitar
+I'm a **Software Developer** with a degree in **Web Information Systems and Technologies** and hands-on experience contributing to healthcare client projects at **PHORMULA GROUP**. I build web and mobile applications across frontend and backend, from **React and React Native interfaces** to **Node.js/Express APIs** and databases. I value problem-solving, maintainable code and teamwork, and I'm always open to new technologies, with a growing interest in **DevOps and automation**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedromst2000" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/pedromst2000" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=pedromst2000@gmail.com&tf=cm">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:pedromst2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </div>
 
@@ -31,33 +18,34 @@ I build end-to-end solutions, from responsive front-end interfaces to robust bac
 
 ## :mortar_board: Academic Background
 
-### Bachelor's Degree Final Project
+### Bachelor's Degree Final Project — Activulse
+
+**Activulse** is my bachelor's final project in **Web Information Systems and Technologies (TSIW)** at [ESMAD — P.PORTO](https://www.esmad.ipp.pt/?set_language=en) (2023/2024). It is a cross-platform **React Native** application for cardiovascular risk assessment, physical activity tracking and personalized health guidance, supported by a **Node.js/Express REST API** and **MySQL** database.
+
+The project combined software development with academic research and collaboration with [ESS — School of Health (P.PORTO)](https://www.ess.ipp.pt/) on the problem domain, requirements and evidence-based guidance.
+
+**Published conference abstract (2026):** [*Mobile Application for Cardiovascular Risk Assessment*](https://www.luminpdf.com/app/pdf/viewer/8momb-bookofabstracts-6aecbb56162f5416cdfbc68a), co-authored with **Leonor Miranda** and **Mário Pinto**, featured in the *Book of Abstracts of the 8th Meeting on Medicinal Biotechnology* (May 2026).
 
 <p align="center">
-  <a href="#iphone-mobile-applications-react-native--ios--android">
-    <img src="https://img.shields.io/badge/Final_Project-Activulse-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Final project Activulse" />
-  </a>
-</p>
-
-**Activulse** was my **bachelor's degree final project** at [ESMAD](https://www.esmad.ipp.pt/?set_language=en) for the **TSIW** program. It is a cross-platform **React Native** app focused on **heart health** and **daily activity tracking**, supported by a **RESTful backend**, **database integration**, and a **layered architecture**.
-
-The project also involved research and collaboration with a professor from [ESS](https://www.ess.ipp.pt) to define **requirements**, validate **goals**, and align the implementation with real-world **health guidelines**.
-
-<p align="center">
+  <a href="https://www.luminpdf.com/app/pdf/viewer/8momb-bookofabstracts-6aecbb56162f5416cdfbc68a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Conference_Abstract-2026-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" alt="Read published conference abstract" />
+  </a>&nbsp;
   <a href="https://app.luminpdf.com/viewer/69c331e265663ae8f32d2968" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_Full_Thesis-LuminPDF-2C9EF8?style=for-the-badge&logo=luminpdf&logoColor=white" alt="View Full Thesis on LuminPDF" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Project_Report-LuminPDF-2C9EF8?style=for-the-badge" alt="View final project report" />
+  </a>&nbsp;
   <a href="https://www.youtube.com/watch?v=8yQINRjBj68" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Watch_App_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch App Demo on YouTube" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Video_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Activulse video demo" />
+  </a>&nbsp;
   <a href="https://github.com/pedromst2000/Activulse" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Activulse repository on GitHub" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Activulse GitHub repository" />
   </a>
 </p>
 
 ## :hammer_and_wrench: Skills & Tools
 
-_Also worked with **ORMs** and **ODM** such as **[Sequelize](https://sequelize.org/), [SQLAlchemy](https://www.sqlalchemy.org/) and [Mongoose](https://mongoosejs.com/)**._
+**Main areas:** React & TypeScript, React Native, Node.js & Express, REST APIs, SQL databases, testing and CI/CD.
+
+**ORM / ODM experience:** [Sequelize](https://sequelize.org/), [SQLAlchemy](https://www.sqlalchemy.org/) and [Mongoose](https://mongoosejs.com/).
 
 #### 🚀 Core Technologies
 
@@ -67,6 +55,8 @@ _Also worked with **ORMs** and **ODM** such as **[Sequelize](https://sequelize.o
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="javascript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img alt="react" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer"><img alt="three.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img alt="expressjs" height="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="tailwindcss" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
@@ -109,40 +99,38 @@ _Also worked with **ORMs** and **ODM** such as **[Sequelize](https://sequelize.o
 
 ## :briefcase: Portfolio & Featured Projects
 
-> **Note:** Continuously improving and refining projects, with a focus on code quality, architecture, and real-world applicability.
+**Featured:** [Einstein Tribute Page](https://github.com/pedromst2000/Einstein-Tribute-Page) · [Activulse](https://github.com/pedromst2000/Activulse) · [PawShare (team contribution)](https://github.com/TiagoRibeiro25/PawShare)
 
 ### :rocket: Web Projects
 
-| Project                   | Overview                                                                                                                                                                                                                                                                                                           | Tech Stack                                                                                                                                                                                | Live Demo/ UI Screenshots                                                                                                    | Repository                                                      | Issues/Feature Requests                                                |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Einstein Tribute Page** | Interactive 3D tribute to Albert Einstein: scroll through his life story inside a living universe, then click any black hole or galaxy to zoom in, with a live-generated cinematic soundtrack.<br/><br/>**Key Features:**<br/>• Real-time raytraced black holes & 40 explorable galaxies (WebGL)<br/>• Scroll-driven storytelling and animations<br/>• 6 languages, SEO-ready, installable PWA<br/>• Accessible, tested and auto-deployed (CI/CD) | **React, TypeScript, three.js, Tailwind CSS**<br/><br/>_Auxiliary: Vite, GLSL shaders, [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Motion](https://motion.dev/), [React Router](https://reactrouter.com/), [i18next](https://www.i18next.com/), Vitest, PWA (Workbox)_ | [Live Demo](https://einstein-tribute-page.onrender.com) <br> <br>  [See UI Screenshots](https://www.behance.net/gallery/236041993/Einstein-Tribute-Landing-Page) | [GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page) | [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues) |
-| **Pokemon Search**        | Front-end application consuming a public REST API.<br/><br/>**Key Features:**<br/>• Asynchronous data fetching and state handling<br/>• Dynamic UI rendering based on API responses<br/>• Loading and error state management<br/>• Responsive and user-friendly interface                                          | HTML, CSS, JS, [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)                                                                                                    | [Demo](https://pokemonsearchcode.netlify.app)                                                                                | [GitHub](https://github.com/pedromst2000/pokemon_search)        | [Issues](https://github.com/pedromst2000/pokemon_search/issues)        |
+| Project | Highlights | Tech Stack | Links |
+| --- | --- | --- | --- |
+| **Einstein Tribute Page** | Interactive 3D tribute featuring scroll-driven storytelling, real-time black holes, **40 explorable galaxies**, six languages, PWA support, testing and automated Render deployment. | **React, TypeScript, Three.js, Tailwind CSS**<br/>Vite, GLSL, Web Audio API, Motion, i18next, Vitest, Workbox | [Live Demo](https://einstein-tribute-page.onrender.com) · [Screenshots](https://www.behance.net/gallery/236041993/Einstein-Tribute-Landing-Page)<br/>[GitHub](https://github.com/pedromst2000/Einstein-Tribute-Page) · [Issues](https://github.com/pedromst2000/Einstein-Tribute-Page/issues) |
+| **Pokémon Search** | Frontend app consuming a public REST API, with asynchronous requests, dynamic results and loading/error states. | **HTML, CSS, JavaScript**, Fetch API | [Live Demo](https://pokemonsearchcode.netlify.app) · [GitHub](https://github.com/pedromst2000/pokemon_search) · [Issues](https://github.com/pedromst2000/pokemon_search/issues) |
 
 <br/>
 
 ### :iphone: Mobile Applications (React Native | iOS & Android)
 
-> **Note:** Mobile applications developed using React Native for iOS and Android, focused on cross-platform performance, user experience, and scalable architecture.
+> Projects built with React Native. **Activulse** is my bachelor's final project; **PawShare** is a collaborative project to which I contributed.
 
-| Project                     | Overview                                                                                                                                                                                                                                                                                                                                                        | Tech Stack                                                                                                                                                                                                            | Video Demo/UI Screenshots                                                                                                    | Download (APK/IPA)       | Repository                                          | Issues/Feature Requests                                        |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------- | -------------------------------------------------------------- |
-| **Activulse (iOS/Android)** | Mobile App for Cardiovascular Risk Assessment.<br/><br/>**Key Features:**<br/>• Activity tracking (steps, distance, goals) aligned with WHO guidelines<br/>• Personalized routines and health recommendations<br/>• Gamification system (challenges and rewards)<br/>• Full-stack architecture (mobile client + API + database) | **React Native, React, Expo, TypeScript, JavaScript, Node.js** <br/><br/>_Auxiliary: Vite, NativeWind, Express, Sequelize, MySQL, Cloudinary, bcrypt, eslint, [swagger](https://swagger.io/), [JWT](https://jwt.io/)_ | [Demo](https://youtu.be/8yQINRjBj68) <br> <br> [See UI Screenshots](https://www.behance.net/gallery/234041863/Activulse-App) | Not Available| [GitHub](https://github.com/pedromst2000/Activulse) | [Issues](https://github.com/pedromst2000/Activulse/issues/new) |
-| **PawShare (iOS/Android)** | Mobile App connecting animal lovers to foster pet adoption and temporary pet care.<br/><br/>**Key Features:**<br/>• Animal adoption marketplace with proposal management<br/>• Temporary pet care services connecting pet owners with sitters<br/>• User profiles for adopters, donors, and sitters<br/>• Secure digital payment system<br/>• QR code safety feature for lost pet identification | **React Native, React, Expo, TypeScript, JavaScript, Node.js** <br/><br/>_Auxiliary: Vite, NativeWind, Express, Sequelize, MySQL, Docker, bcrypt, eslint, [swagger](https://swagger.io/), [JWT](https://jwt.io/)_ | [See UI Screenshots](https://www.behance.net/gallery/186464911/Paw-Share-Mobile-App) | Not Available | [GitHub](https://github.com/pedromst2000/PawShare) | [Issues](https://github.com/pedromst2000/PawShare/issues/new) |
+| Project & Role | Overview | Tech Stack | Demo / Screenshots | Repository |
+| --- | --- | --- | --- | --- |
+| **Activulse**<br/>*Bachelor's Final Project* | Cross-platform cardiovascular health app with **Framingham risk assessment**, activity tracking, personalized guidance and gamification. Full-stack design with a mobile client, a REST API and database. | **React Native, Expo, TypeScript, Node.js, Express, MySQL**<br/>React Query, NativeWind, Sequelize, JWT, Swagger/OpenAPI (YAML API docs) | [Video Demo](https://youtu.be/8yQINRjBj68) · [UI Screenshots](https://www.behance.net/gallery/234041863/Activulse-App) | [GitHub](https://github.com/pedromst2000/Activulse) · [Issues](https://github.com/pedromst2000/Activulse/issues/new) |
+| **PawShare**<br/>*Academic Team Project — Contributor* | Cross-platform mobile app connecting pet owners, adopters and caregivers through **pet adoption**, **temporary pet care**, **user profiles** and **QR-based lost-pet identification**. | **React Native, TypeScript, Node.js, Express, Sequelize, MySQL**<br/>NativeWind, Cloudinary | [UI Screenshots](https://www.behance.net/gallery/186464911/Paw-Share-Mobile-App) | [Team Repository](https://github.com/TiagoRibeiro25/PawShare) · [Issues](https://github.com/TiagoRibeiro25/PawShare/issues) |
 
 <br/>
 
 ### :desktop_computer: Desktop Python Apps
 
-> **Note:** Video demos are hosted on Youtube!
-
-| Project            | Overview                                                                                                                                                                                                                                                                                                                        | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Video Demo/ UI Screenshots                                                         | Repository                                                     | Issues/Feature Requests                                               |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **PhotoShow**      | Desktop application for photo management following MVC architecture.<br/><br/>**Key Features:**<br/>• User authentication with secure password hashing<br/>• Persistent storage using SQLite + ORM<br/>• Clear separation of concerns (MVC pattern)<br/>• Image processing and handling                                         | **Python, Tkinter, SQLite, SQLAlchemy, pyinstaller**<br/><br/>_Auxiliary: pytest, pytest-mock, pytest-cov, flake8, yamllint, Black, [Pillow](https://pillow.readthedocs.io/en/stable/), [bcrypt](https://pypi.org/project/bcrypt/)_                                                                                                                                                                                                                          | [See UI Screenshots](https://github.com/pedromst2000/PhotoShow#art-ui-screenshots) | [GitHub](https://github.com/pedromst2000/PhotoShow)            | [Issues](https://github.com/pedromst2000/PhotoShow/issues)            |
-| **GrubSnake Game** | Arcade-style Snake game focused on gameplay logic and modular design.<br/><br/>**Key Features:**<br/>• Game loop implementation with real-time updates<br/>• Collision detection and dynamic snake growth<br/>• Score tracking system<br/>• Keyboard input handling (WASD + arrows)                                             | **Python, Pygame**                                                                                                                                                                                                                                                                                                                                                                                                                                           | :clapper: Coming Soon                                                              | [GitHub](https://github.com/pedromst2000/GrubSnake)            | [Issues](https://github.com/pedromst2000/GrubSnake/issues)            |
+| Project | Highlights | Tech Stack | Links |
+| --- | --- | --- | --- |
+| **PhotoShow** | Desktop photo manager using **MVC-style separation of concerns**, user authentication, bcrypt password hashing, persistent storage and image processing. | **Python, Tkinter, SQLite, SQLAlchemy**<br/>pytest, pytest-mock, pytest-cov, Black, flake8, Pillow, PyInstaller | [Screenshots](https://github.com/pedromst2000/PhotoShow#art-ui-screenshots) · [GitHub](https://github.com/pedromst2000/PhotoShow) · [Issues](https://github.com/pedromst2000/PhotoShow/issues) |
+| **GrubSnake** | Snake-style arcade game with keyboard controls, collision detection, dynamic growth and score tracking. | **Python, Pygame** | [GitHub](https://github.com/pedromst2000/GrubSnake) · [Issues](https://github.com/pedromst2000/GrubSnake/issues) |
 
 <br/>
 
-### :chart_with_upwards_trend: Data Analysis & Machine Learning (scikit-learn)
+### :chart_with_upwards_trend: Data Analysis & Machine Learning (Python)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -163,8 +151,8 @@ _Also worked with **ORMs** and **ODM** such as **[Sequelize](https://sequelize.o
 - 🔍 **Exploratory data analysis (EDA)** - trends, distributions, seasonality, correlations, forecasting
 - 📊 **Data visualization** - line charts, bar plots, box plots, heatmaps, scatter plots, time-series plots
 - 🧹 **Data cleaning & preprocessing** - outlier removal, categorical encoding, feature engineering
-- 🔮 **Predictive modeling** - linear regression forecasting, trend analysis, extrapolation, dual-model comparison
-- 🤖 **Machine learning** - scikit-learn for regression modeling, classification models, and feature preprocessing
+- 🔮 **Predictive modeling** - regression, trend analysis and comparing models
+- 🤖 **Machine learning** - introductory modeling with scikit-learn (regression, classification and preprocessing)
 
 <div align="right">
   <a href="https://github.com/pedromst2000/Data-Analysis">📁 GitHub Repository</a>&nbsp;&nbsp;
